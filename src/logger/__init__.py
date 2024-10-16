@@ -1,0 +1,1 @@
+from .manejador_logs import registrar_actividad
