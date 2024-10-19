@@ -1,5 +1,5 @@
 import sqlite3
-from src.config import DB_NAME
+from config import DB_NAME
 
 def obtener_conexion():
     try:
